@@ -1,0 +1,192 @@
+@media screen and (max-width: 1350px) {
+  .why-us .side-labels li {
+    list-style-type: none;
+    text-transform: uppercase;
+    font-size: 18px;
+    font-weight: 700;
+    width: 240px;
+    height: 50px;
+    background-color: #F47C27;
+    margin-bottom: 20px;
+    line-height: 50px;
+    text-align: center;
+    color: white;
+    border-radius: 200px 0px 0px 200px;
+  }
+}
+
+@media screen and (max-width: 1200px) {
+  .carousel-images {
+    bottom: 11%;
+  }
+
+  .why-us .right-side img {
+    width: 450px;
+  }
+}
+
+@media screen and (max-width: 1170px) {
+  .customer-saying {
+    font-size: 22px;
+    line-height: 28px;
+  }
+
+  h3 {
+    font-size: 27px;
+  }
+
+  .customer-review .owl-nav {
+    left: -250px;
+  }
+}
+
+@media screen and (max-width: 1100px) {
+  .why-us .side-labels li {
+    list-style-type: none;
+    text-transform: uppercase;
+    font-size: 16px;
+    font-weight: 700;
+    width: 200px;
+    height: 50px;
+    background-color: #F47C27;
+    margin-bottom: 20px;
+    line-height: 50px;
+    text-align: center;
+    color: white;
+    border-radius: 200px 0px 0px 200px;
+  }
+}
+
+@media screen and (max-width: 1024px) {
+
+  .carousel-images .better-breader,
+  .chicken-plate {
+    width: 400px;
+  }
+
+  .why-us .right-side img {
+    width: 400px;
+  }
+
+  .why-us .row,
+  .customer-review {
+    padding: 50px 0px 60px 50px;
+  }
+}
+
+@media screen and (min-width: 992px) {
+
+  .navbar {
+    height: 90px;
+  }
+
+
+}
+
+@media screen and (max-width: 900px) {
+
+  .carousel-images .better-breader,
+  .chicken-plate {
+    width: 320px;
+  }
+}
+
+@media screen and (max-width: 822px) {
+  .customer-review .owl-nav {
+    left: -200px;
+  }
+}
+
+@media screen and (max-width: 767.98px) {
+
+  .carousel-images .better-breader,
+  .chicken-plate {
+    width: 280px;
+  }
+
+  .footer-icons {
+    display: flex;
+    justify-content: center;
+  }
+
+  .carousel-caption h1 {
+    font-size: 35px;
+  }
+
+  .customer-review .owl-nav {
+    left: -180px;
+  }
+
+  .customer-div {
+    display: none;
+  }
+
+  .why-us .row {
+    padding: 0px;
+  }
+
+  .customer-review {
+    padding: 10px;
+  }
+
+  .why-us {
+    padding: 10px;
+  }
+}
+
+@media screen and (max-width: 575.98px) {
+
+  .carousel-images .better-breader,
+  .chicken-plate {
+    width: 220px;
+  }
+
+  .why-us .side-labels {
+    position: absolute;
+    right: -140px;
+    top: 50px;
+    transition: 0.5s;
+  }
+
+  .why-us {
+    overflow: hidden;
+  }
+
+  .why-us .side-labels:hover {
+    position: absolute;
+    right: 0px;
+    top: 50px;
+  }
+
+  .carousel-caption h1 {
+    font-size: 35px;
+    line-height: 40px;
+  }
+
+  .btn.shop-now {
+    width: 170px;
+    height: 45px;
+    border-radius: 6px;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 32px;
+    background-color: #F47C27;
+    color: white;
+    box-shadow: 5px 5px #4E2000;
+  }
+
+  .carousel-caption h1 {
+    line-height: 40px;
+  }
+
+  .why-us .side-labels li {
+    right: -140px;
+  }
+
+}
+
+@media screen and (max-width: 440px) {
+  .why-us .right-side img {
+    width: 330px;
+  }
+}
